@@ -10,7 +10,7 @@ A Revit add-in by **pyBIM – Arshad Paloli** to browse and load families from a
 
 ## Download
 
-Get **FamilyImporter-Setup-1.0.6.exe** from the [Releases](../../releases/latest) page.
+Download [**FamilyImporter-Setup-1.0.6.exe**](download/FamilyImporter-Setup-1.0.6.exe) (click the file, then the download icon).
 
 ## Install
 
