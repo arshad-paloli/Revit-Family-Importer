@@ -1,6 +1,6 @@
 # Revit Family Importer
 
-A Revit add-in by **pyBIM – Arshad Paloli** to browse and load families from a project file or a folder into the active Revit model.
+A Revit add-in by **Arshad Paloli** to browse and load families from a project file or a folder into the active Revit model.
 
 - Supports **Revit 2025 and 2026**
 - Browse by thumbnail and category, search, favourites
